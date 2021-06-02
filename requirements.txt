@@ -1,0 +1,10 @@
+# Database
+sqlalchemy
+
+#Data frames
+pandas
+
+#Read & Write Excel
+xlrd
+XlsxWriter
+openpyxl
